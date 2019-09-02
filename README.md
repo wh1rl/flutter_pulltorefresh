@@ -1,4 +1,4 @@
-# flutter_pulltorefresh
+# flutter_pulltorefresh for web
 <a href="https://pub.dev/packages/pull_to_refresh">
   <img src="https://img.shields.io/pub/v/pull_to_refresh.svg"/>
 </a>

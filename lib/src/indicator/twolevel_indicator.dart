@@ -4,9 +4,9 @@
  * Time:  2019-08-29 09:41
  */
 
-import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/material.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/widgets.dart';
 import 'classic_indicator.dart';
 import '../smart_refresher.dart';
 

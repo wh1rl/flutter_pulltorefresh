@@ -4,7 +4,7 @@
  * Time:  2019-06-26 13:17
 */
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// enable header link other header place outside the viewport
 class LinkHeader extends RefreshIndicator {

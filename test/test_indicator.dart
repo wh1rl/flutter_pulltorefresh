@@ -5,7 +5,7 @@
  */
 
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-import 'package:flutter/material.dart'
+import 'package:flutter_web/material.dart'
     hide RefreshIndicatorState, RefreshIndicator;
 
 class TestHeader extends RefreshIndicator {

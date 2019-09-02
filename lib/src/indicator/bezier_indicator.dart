@@ -4,14 +4,14 @@
  * Time:  2019-08-02 19:20
  */
 
-import 'package:flutter/animation.dart';
+import 'package:flutter_web/animation.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/material.dart'
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web/material.dart'
     hide RefreshIndicator, RefreshIndicatorState;
 import 'package:pull_to_refresh/src/internals/indicator_wrap.dart';
 import 'dart:math' as math;
-import 'package:flutter/physics.dart';
+import 'package:flutter_web/physics.dart';
 
 enum BezierDismissType { None, RectSpread, ScaleToCenter }
 

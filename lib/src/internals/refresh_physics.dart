@@ -4,10 +4,10 @@
     createTime:2018-05-02 14:39
  */
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/physics.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/physics.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/widgets.dart';
 import 'dart:math' as math;
 
 import 'package:pull_to_refresh/pull_to_refresh.dart';

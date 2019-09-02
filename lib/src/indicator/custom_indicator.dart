@@ -4,7 +4,7 @@
  * Time: 2019/5/4 下午9:49
  */
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 import '../internals/indicator_wrap.dart';
 import '../smart_refresher.dart';
 

@@ -4,10 +4,10 @@
     createTime:2018-05-01 11:39
 */
 
-import 'package:flutter/gestures.dart';
-import 'package:flutter/physics.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/gestures.dart';
+import 'package:flutter_web/physics.dart';
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:pull_to_refresh/src/internals/slivers.dart';
 import 'internals/indicator_wrap.dart';
